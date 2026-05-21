@@ -1,21 +1,3 @@
-## Hi there 👋
-
-<!--
-**heberttnascimentto/heberttnascimentto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # ***Olá, eu sou Hebert Nascimento*** 👋
 
 ![Números binários](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
@@ -45,9 +27,19 @@ Here are some ideas to get you started:
 #### 4. Crescer na área de Engenharia de Software.
 
 
+## **🛠️ Certificações**
+
+| Cursos      |  Certificados|
+|-------------|--------------|
+|Formação Lógica de Programação|[Certificado](https://hermes.dio.me/certificates/AZSZWLNA.pdf)|
+|Pensamento Computacional | [Certificado](https://hermes.dio.me/certificates/FYOHMKTI.pdf)
+|Formatação com Markdown | [Certificado](https://hermes.dio.me/certificates/IBBYZ84R.pdf)
+
+
+
 ## **🛠️ GitHub Status**
 
-![Hebert Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=heberttnascimentto&show_icons=true&theme=dracula)
+![Hebert Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=heberttnascimentto&show_icons=true&theme=radical)
 
 
 ## **📲 Contatos**
