@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ***Olá, eu sou Hebert Nascimento*** 👋
 
+# ***Olá, eu sou Hebert Nascimento*** 👋
 
 ![Números binários](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
 
@@ -39,18 +39,18 @@ Here are some ideas to get you started:
 
 ## **🎯 Objetivos**
 
-#### Conquistar minha primeira oportunidade na área de tecnologia <br>
-#### Evoluir como Desenvolvedor Front-End <br>
-#### Construir projetos práticos e portfólio profissional <br>
-#### Crescer na área de Engenharia de Software.
+#### 1. Conquistar minha primeira oportunidade na área de tecnologia <br>
+#### 2. Evoluir como Desenvolvedor <br>
+#### 3. Construir projetos práticos e portfólio profissional <br>
+#### 4. Crescer na área de Engenharia de Software.
 
 
-# **🛠️ Tecnologias e Ferramentas**
-Git & GitHub
-HTML
-CSS
-JavaScript
-VS Code
-📫 Contato
-📧 hebert.up@gmail.com
+## **🛠️ GitHub Status**
+
+![Hebert Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=heberttnascimentto&show_icons=true&theme=dracula)
+
+
+## **📲 Contatos**
+
+📧 hebert.up@gmail.com <br>
 📱 WhatsApp: (35) 99963-2006
